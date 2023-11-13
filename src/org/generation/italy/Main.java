@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		//Programma per la fatturazione di un'officina
 		Scanner scanner = new Scanner(System.in);
 		
 		String stringaInserita, risposta;
